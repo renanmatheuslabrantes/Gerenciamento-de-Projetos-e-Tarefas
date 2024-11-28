@@ -76,7 +76,7 @@ A aplicação utiliza React Hooks `useState` e `useEffect` para:
 
 ## Licença
 
-[Insira sua licença aqui]
+MIT License
 
 ## Contato
 
