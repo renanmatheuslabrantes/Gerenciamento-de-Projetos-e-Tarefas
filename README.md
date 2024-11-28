@@ -80,4 +80,5 @@ MIT License
 
 ## Contato
 
-Renan Matheus Linhares Abrantes
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/renanmabrantes)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/renanmatheuslabrantes)
